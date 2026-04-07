@@ -1,5 +1,5 @@
 export type StatusConsulta =
-    |"agendada"
+    | "agendada"
     | "confirmada"
     | "cancelada"
     | "realizada"
