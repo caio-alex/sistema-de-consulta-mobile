@@ -19,7 +19,7 @@ import {
   obterConsultas,
   salvarConsultas,
 } from "../services/storage";
-import { Especialidade } from "../types/espcialidade";
+import { Especialidade } from "../types/especialidade";
 import { Medico } from "../interfaces/medico";
 import { Paciente } from "../types/paciente";
 import { Consulta } from "../interfaces/consulta";

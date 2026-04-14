@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import { View, Text, ScrollView, Button } from "react-native";
 import { StatusBar } from "expo-status-bar";
 import AsyncStorage from "@react-native-async-storage/async-storage";
-import { Especialidade } from "../types/espcialidade";
+import { Especialidade } from "../types/especialidade";
 import { Paciente } from "../types/paciente";
 import { Medico } from "../interfaces/medico";
 import { Consulta } from "../interfaces/consulta";

@@ -1,5 +1,5 @@
 import AsyncStorage from "@react-native-async-storage/async-storage";
-import { Especialidade } from "../types/espcialidade";
+import { Especialidade } from "../types/especialidade";
 import { Medico } from "../interfaces/medico";
 import { Consulta } from "../interfaces/consulta";
 
